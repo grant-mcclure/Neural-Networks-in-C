@@ -12,7 +12,7 @@
 #define initial_range 0.2
 
 #define Learning_rate 0.005 // 0 - 1, 0.01 - 0.0001
-#define epochs 1000
+#define epochs 100000
 
 #define MAX_ROWS 48120
 #define MAX_COLS 4
